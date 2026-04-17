@@ -12,7 +12,7 @@ An interactive Machine Learning web application that predicts whether a customer
 
 The model is trained on customer data and uses the following preprocessing steps:
 
-Gender encoding Geography one-hot encoding Feature scaling using StandardScaler Artificial Neural Network (ANN) for classification 📁 Project Structure . ├── app.py ├── model.ipynb ├── requirements.txt ├── runtime.txt ├── artifacts/ │ ├── churn_ann_model.keras │ ├── scaler.pkl │ └── feature_columns.json ├── Artificial_Neural_Network_Case_Study_data.csv └── README.md ⚙️ Installation 🔹 Clone the repository git clone https://github.com/Tanish4196/ANN-CaseStudy.git cd ANN-CaseStudy 🔹 Install dependencies pip install -r requirements.txt 🌍 Deployment
+Gender encoding Geography one-hot encoding Feature scaling using StandardScaler Artificial Neural Network (ANN) for classification 📁 Project Structure . ├── app.py ├── model.ipynb ├── requirements.txt ├── runtime.txt ├── artifacts/ │ ├── churn_ann_model.keras │ ├── scaler.pkl │ └── feature_columns.json ├── Artificial_Neural_Network_Case_Study_data.csv └── README.md ⚙️ Installation  🔹 Install dependencies pip install -r requirements.txt 🌍 Deployment
 
 This app is deployed using Streamlit Community Cloud
 
