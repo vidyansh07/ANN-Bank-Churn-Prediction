@@ -16,7 +16,7 @@ Gender encoding Geography one-hot encoding Feature scaling using StandardScaler 
 
 This app is deployed using Streamlit Community Cloud
 
-👉 Live App: https://ann-bank-churn-prediction-4f7s68ok95fwl8n3uixshl.streamlit.app/
+👉 Live App: https://animated-trout-w6qpw7gg945cg6p5-8501.app.github.dev/
 
 📌 Notes Model predicts churn probability based on user input Threshold logic: ≥ 50% → High Risk (Churn) < 50% → Low Risk (Retention) Ensure all artifact files exist before running the app 👨‍💻 Author
 
